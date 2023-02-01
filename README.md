@@ -1,5 +1,24 @@
 # Business Plan Checklist
 
+Whether it’s for a bank, investors, validation, and/or a roadmap, your company needs a written business plan to convert your ideas into an organized, professional document. 
+
+The business plan format will change depending on why you’re writing it and who you’re writing it for. If you’re seeking validation, it’s best to start with a simple one-page pitch. On the other hand, if you’re pursuing funding, you’ll need a professional, formal business plan. 
+
+Regardless of the intentions behind your business plan, having a checklist of what needs to be included is helpful to make sure you’re effectively getting your ideas and strategies down on paper. 
+
+As a baseline, your business plan should include these 10 sections:
+
+1. Executive Summary
+2. Company Overview
+3. Industry Analysis
+4. Customer Analysis
+5. Competitive Analysis
+6. Marketing Plan
+7. Operations Plan
+8. Management Team
+9. Financial Plan
+10. Appendix
+
 ## Executive Summary
 Your executive summary should explain the problem you are solving and how you intend to solve it. When reviewing your business plan, address the following:
 
